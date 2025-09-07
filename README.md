@@ -1,3 +1,5 @@
+(THIS FORK IS BROKEN)
+
 ![build status](https://github.com/atomic14/diy-esp32-epub-reader/actions/workflows/build-test-on-push.yml/badge.svg)
 
 # ESP32 Based ePub Reader
